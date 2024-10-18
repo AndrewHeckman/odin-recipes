@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+.recipe-list{
+    padding: 0 32px;
+    text-align: center;
+}
+
+.recipe-link{
+    display: inline-block;
+    margin: 16px;
+    border: 2px solid blue;
+}
+
+.recipe-link img{
+    width: 256px;
+}
+
+.recipe-link p{
+    text-align: center;
+}
